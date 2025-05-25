@@ -1,0 +1,50 @@
+WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+ws.onerror @ hooks.ts:33
+hooks.ts:37 WebSocket disconnected
+hooks.ts:33 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+ws.onerror @ hooks.ts:33
+hooks.ts:37 WebSocket disconnected
+hooks.ts:17 WebSocket connection to 'wss://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/ws/processing-status' failed: 
+(anonymous) @ hooks.ts:17
+(anonymous) @ hooks.ts:56
+commitHookEffectListMount @ chunk-WERSD76P.js?v=a7851ba3:16915
+commitPassiveMountOnFiber @ chunk-WERSD76P.js?v=a7851ba3:18156
+commitPassiveMountEffects_complete @ chunk-WERSD76P.js?v=a7851ba3:18129
+commitPassiveMountEffects_begin @ chunk-WERSD76P.js?v=a7851ba3:18119
+commitPassiveMountEffects @ chunk-WERSD76P.js?v=a7851ba3:18109
+flushPassiveEffectsImpl @ chunk-WERSD76P.js?v=a7851ba3:19490
+flushPassiveEffects @ chunk-WERSD76P.js?v=a7851ba3:19447
+(anonymous) @ chunk-WERSD76P.js?v=a7851ba3:19328
+workLoop @ chunk-WERSD76P.js?v=a7851ba3:197
+flushWork @ chunk-WERSD76P.js?v=a7851ba3:176
+performWorkUntilDeadline @ chunk-WERSD76P.js?v=a7851ba3:384
+hooks.ts:33 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+ws.onerror @ hooks.ts:33
+hooks.ts:37 WebSocket disconnected
+hooks.ts:33 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+ws.onerror @ hooks.ts:33
+hooks.ts:37 WebSocket disconnected
+hooks.ts:17 WebSocket connection to 'wss://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/ws/processing-status' failed: 
+(anonymous) @ hooks.ts:17
+(anonymous) @ hooks.ts:41
+hooks.ts:17 WebSocket connection to 'wss://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/ws/processing-status' failed: 
+(anonymous) @ hooks.ts:17
+(anonymous) @ hooks.ts:41
+hooks.ts:17 WebSocket connection to 'wss://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/ws/processing-status' failed: 
+(anonymous) @ hooks.ts:17
+(anonymous) @ hooks.ts:41
+hooks.ts:17 WebSocket connection to 'wss://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/ws/processing-status' failed: 
+(anonymous) @ hooks.ts:17
+(anonymous) @ hooks.ts:41
+hooks.ts:17 WebSocket connection to 'wss://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/ws/processing-status' failed: 
+(anonymous) @ hooks.ts:17
+(anonymous) @ hooks.ts:41
+hooks.ts:33 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+ws.onerror @ hooks.ts:33
+hooks.ts:37 WebSocket disconnected
+hooks.ts:17 WebSocket connection to 'wss://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/ws/processing-status' failed: 
+(anonymous) @ hooks.ts:17
+(anonymous) @ hooks.ts:41
+hooks.ts:33 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+
+Queryclient not defined

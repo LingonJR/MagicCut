@@ -1,0 +1,47 @@
+queryClient.ts:32 
+            
+            
+           GET https://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/videos/status 502 (Bad Gateway)
+(anonymous) @ queryClient.ts:32
+fetchFn @ @tanstack_react-query.js?v=a7851ba3:840
+run @ @tanstack_react-query.js?v=a7851ba3:494
+start @ @tanstack_react-query.js?v=a7851ba3:536
+fetch @ @tanstack_react-query.js?v=a7851ba3:926
+executeFetch_fn @ @tanstack_react-query.js?v=a7851ba3:2211
+setOptions @ @tanstack_react-query.js?v=a7851ba3:1955
+(anonymous) @ @tanstack_react-query.js?v=a7851ba3:3032
+commitHookEffectListMount @ chunk-WERSD76P.js?v=a7851ba3:16915
+commitPassiveMountOnFiber @ chunk-WERSD76P.js?v=a7851ba3:18156
+commitPassiveMountEffects_complete @ chunk-WERSD76P.js?v=a7851ba3:18129
+commitPassiveMountEffects_begin @ chunk-WERSD76P.js?v=a7851ba3:18119
+commitPassiveMountEffects @ chunk-WERSD76P.js?v=a7851ba3:18109
+flushPassiveEffectsImpl @ chunk-WERSD76P.js?v=a7851ba3:19490
+flushPassiveEffects @ chunk-WERSD76P.js?v=a7851ba3:19447
+(anonymous) @ chunk-WERSD76P.js?v=a7851ba3:19328
+workLoop @ chunk-WERSD76P.js?v=a7851ba3:197
+flushWork @ chunk-WERSD76P.js?v=a7851ba3:176
+performWorkUntilDeadline @ chunk-WERSD76P.js?v=a7851ba3:384
+Home.tsx:224 
+            
+            
+           POST https://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/videos/upload 502 (Bad Gateway)
+startProcessing @ Home.tsx:224
+callCallback2 @ chunk-WERSD76P.js?v=a7851ba3:3674
+invokeGuardedCallbackDev @ chunk-WERSD76P.js?v=a7851ba3:3699
+invokeGuardedCallback @ chunk-WERSD76P.js?v=a7851ba3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-WERSD76P.js?v=a7851ba3:3736
+executeDispatch @ chunk-WERSD76P.js?v=a7851ba3:7014
+processDispatchQueueItemsInOrder @ chunk-WERSD76P.js?v=a7851ba3:7034
+processDispatchQueue @ chunk-WERSD76P.js?v=a7851ba3:7043
+dispatchEventsForPlugins @ chunk-WERSD76P.js?v=a7851ba3:7051
+(anonymous) @ chunk-WERSD76P.js?v=a7851ba3:7174
+batchedUpdates$1 @ chunk-WERSD76P.js?v=a7851ba3:18913
+batchedUpdates @ chunk-WERSD76P.js?v=a7851ba3:3579
+dispatchEventForPluginEventSystem @ chunk-WERSD76P.js?v=a7851ba3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-WERSD76P.js?v=a7851ba3:5478
+dispatchEvent @ chunk-WERSD76P.js?v=a7851ba3:5472
+dispatchDiscreteEvent @ chunk-WERSD76P.js?v=a7851ba3:5449
+Home.tsx:224 
+            
+            
+           POST https://e24fb655-3f13-4adc-9a69-ce86d92fa913-00-24j89r591w7gf.riker.replit.dev/api/videos/upload net::ERR_CONNECTION_RESET 502 (Bad Gateway)
